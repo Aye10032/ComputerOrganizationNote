@@ -8,3 +8,7 @@
 * [1.2 计算机系统层次结构](di-yi-zhang-ji-suan-ji-xi-tong-gai-shu/1.2-ji-suan-ji-xi-tong-ceng-ci-jie-gou.md)
 * [1.3 计算机的性能指标](di-yi-zhang-ji-suan-ji-xi-tong-gai-shu/1.3-ji-suan-ji-de-xing-neng-zhi-biao.md)
 
+## 第二章 数据的表示和运算
+
+* [2.1 数制与编码](di-er-zhang-shu-ju-de-biao-shi-he-yun-suan/2.1-shu-zhi-yu-bian-ma.md)
+
