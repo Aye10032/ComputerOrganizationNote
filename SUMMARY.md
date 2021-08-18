@@ -11,4 +11,5 @@
 ## 第二章 数据的表示和运算
 
 * [2.1 数制与编码](di-er-zhang-shu-ju-de-biao-shi-he-yun-suan/2.1-shu-zhi-yu-bian-ma.md)
+* [2.2 定点数的表示与运算](di-er-zhang-shu-ju-de-biao-shi-he-yun-suan/2.2-ding-dian-shu-de-biao-shi-yu-yun-suan.md)
 
