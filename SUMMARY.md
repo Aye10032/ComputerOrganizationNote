@@ -13,4 +13,5 @@
 * [2.1 数制与编码](di-er-zhang-shu-ju-de-biao-shi-he-yun-suan/2.1-shu-zhi-yu-bian-ma.md)
 * [2.2 定点数的表示与运算](di-er-zhang-shu-ju-de-biao-shi-he-yun-suan/2.2-ding-dian-shu-de-biao-shi-yu-yun-suan.md)
 * [2.3 浮点数的表示和运算](di-er-zhang-shu-ju-de-biao-shi-he-yun-suan/2.3-fu-dian-shu-de-biao-shi-he-yun-suan.md)
+* [2.4 算数逻辑单元（ALU）](di-er-zhang-shu-ju-de-biao-shi-he-yun-suan/2.4-suan-shu-luo-ji-dan-yuan-alu.md)
 
