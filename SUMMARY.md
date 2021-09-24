@@ -18,5 +18,5 @@
 ## 第三章 存储系统
 
 * [3.1 存储器概述](di-san-zhang-cun-chu-xi-tong/3.1-cun-chu-qi-gai-shu.md)
-* [3.2 存储器的层次化结构](di-san-zhang-cun-chu-xi-tong/3.2-cun-chu-qi-de-ceng-ci-hua-jie-gou.md)
+* [3.3 半导体随机存储器](di-san-zhang-cun-chu-xi-tong/3.3-ban-dao-ti-sui-ji-cun-chu-qi.md)
 
