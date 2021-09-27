@@ -19,4 +19,5 @@
 
 * [3.1 存储器概述](di-san-zhang-cun-chu-xi-tong/3.1-cun-chu-qi-gai-shu.md)
 * [3.3 半导体随机存储器](di-san-zhang-cun-chu-xi-tong/3.3-ban-dao-ti-sui-ji-cun-chu-qi.md)
+* [3.4 主存储器与CPU的连接](di-san-zhang-cun-chu-xi-tong/3.4-zhu-cun-chu-qi-yu-cpu-de-lian-jie.md)
 
