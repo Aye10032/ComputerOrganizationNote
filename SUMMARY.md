@@ -13,4 +13,11 @@
 * [2.1 数制与编码](di-er-zhang-shu-ju-de-biao-shi-he-yun-suan/2.1-shu-zhi-yu-bian-ma.md)
 * [2.2 定点数的表示与运算](di-er-zhang-shu-ju-de-biao-shi-he-yun-suan/2.2-ding-dian-shu-de-biao-shi-yu-yun-suan.md)
 * [2.3 浮点数的表示和运算](di-er-zhang-shu-ju-de-biao-shi-he-yun-suan/2.3-fu-dian-shu-de-biao-shi-he-yun-suan.md)
+* [2.4 算数逻辑单元（ALU）](di-er-zhang-shu-ju-de-biao-shi-he-yun-suan/2.4-suan-shu-luo-ji-dan-yuan-alu.md)
+
+## 第三章 存储系统
+
+* [3.1 存储器概述](di-san-zhang-cun-chu-xi-tong/3.1-cun-chu-qi-gai-shu.md)
+* [3.3 半导体随机存储器](di-san-zhang-cun-chu-xi-tong/3.3-ban-dao-ti-sui-ji-cun-chu-qi.md)
+* [3.4 主存储器与CPU的连接](di-san-zhang-cun-chu-xi-tong/3.4-zhu-cun-chu-qi-yu-cpu-de-lian-jie.md)
 
