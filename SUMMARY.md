@@ -22,4 +22,4 @@
 * [3.4 主存储器与CPU的连接](di-san-zhang-cun-chu-xi-tong/3.4-zhu-cun-chu-qi-yu-cpu-de-lian-jie.md)
 * [3.5 双端口RAM和多模块存储器](di-san-zhang-cun-chu-xi-tong/3.5-shuang-duan-kou-ram-he-duo-mo-kuai-cun-chu-qi.md)
 * [3.6 高速缓冲存储器](di-san-zhang-cun-chu-xi-tong/3.6-gao-su-huan-chong-cun-chu-qi.md)
-
+* [3.7 虚拟存储器](di-san-zhang-cun-chu-xi-tong/3.7-xu-ni-cun-chu-qi.md)
