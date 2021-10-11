@@ -23,3 +23,7 @@
 * [3.5 双端口RAM和多模块存储器](di-san-zhang-cun-chu-xi-tong/3.5-shuang-duan-kou-ram-he-duo-mo-kuai-cun-chu-qi.md)
 * [3.6 高速缓冲存储器](di-san-zhang-cun-chu-xi-tong/3.6-gao-su-huan-chong-cun-chu-qi.md)
 * [3.7 虚拟存储器](di-san-zhang-cun-chu-xi-tong/3.7-xu-ni-cun-chu-qi.md)
+
+## 第四章 指令系统
+
+* [4.1 指令格式](di-si-zhang-zhi-ling-xi-tong/4.1-zhi-ling-ge-shi.md)
