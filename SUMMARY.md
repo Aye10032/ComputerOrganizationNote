@@ -27,3 +27,4 @@
 ## 第四章 指令系统
 
 * [4.1 指令格式](di-si-zhang-zhi-ling-xi-tong/4.1-zhi-ling-ge-shi.md)
+* [4.2 指令的寻址方式](di-si-zhang-zhi-ling-xi-tong/4.2-zhi-ling-de-xun-zhi-fang-shi.md)
