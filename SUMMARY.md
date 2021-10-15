@@ -29,3 +29,7 @@
 * [4.1 指令格式](di-si-zhang-zhi-ling-xi-tong/4.1-zhi-ling-ge-shi.md)
 * [4.2 指令的寻址方式](di-si-zhang-zhi-ling-xi-tong/4.2-zhi-ling-de-xun-zhi-fang-shi.md)
 * [4.3 CISC和RISC](di-si-zhang-zhi-ling-xi-tong/4.3-cisc-he-risc.md)
+
+## 第五章 中央处理器
+
+* [5.1 CPU的基本功能和结构](di-wu-zhang-zhong-yang-chu-li-qi/5.1-cpu-de-ji-ben-gong-neng-he-jie-gou.md)
