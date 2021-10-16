@@ -34,3 +34,4 @@
 
 * [5.1 CPU的基本功能和结构](di-wu-zhang-zhong-yang-chu-li-qi/5.1-cpu-de-ji-ben-gong-neng-he-jie-gou.md)
 * [5.2 指令执行过程](di-wu-zhang-zhong-yang-chu-li-qi/5.2-zhi-ling-zhi-hang-guo-cheng.md)
+* [5.3 数据通路的功能和基本结构](di-wu-zhang-zhong-yang-chu-li-qi/5.3-shu-ju-tong-lu-de-gong-neng-he-ji-ben-jie-gou.md)
