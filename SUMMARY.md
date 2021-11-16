@@ -36,3 +36,4 @@
 * [5.2 指令执行过程](di-wu-zhang-zhong-yang-chu-li-qi/5.2-zhi-ling-zhi-hang-guo-cheng.md)
 * [5.3 数据通路的功能和基本结构](di-wu-zhang-zhong-yang-chu-li-qi/5.3-shu-ju-tong-lu-de-gong-neng-he-ji-ben-jie-gou.md)
 * [5.4 控制器的工作原理和功能](di-wu-zhang-zhong-yang-chu-li-qi/5.4-kong-zhi-qi-de-gong-zuo-yuan-li-he-gong-neng.md)
+* [5.5 指令流水线](di-wu-zhang-zhong-yang-chu-li-qi/5.5-zhi-ling-liu-shui-xian.md)
