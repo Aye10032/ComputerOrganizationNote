@@ -37,3 +37,10 @@
 * [5.3 数据通路的功能和基本结构](di-wu-zhang-zhong-yang-chu-li-qi/5.3-shu-ju-tong-lu-de-gong-neng-he-ji-ben-jie-gou.md)
 * [5.4 控制器的工作原理和功能](di-wu-zhang-zhong-yang-chu-li-qi/5.4-kong-zhi-qi-de-gong-zuo-yuan-li-he-gong-neng.md)
 * [5.5 指令流水线](di-wu-zhang-zhong-yang-chu-li-qi/5.5-zhi-ling-liu-shui-xian.md)
+
+## 第六章 总线
+
+* [6.1 总线概述](di-liu-zhang-zong-xian/6.1-zong-xian-gai-shu.md)
+* [6.2 总线仲裁](di-liu-zhang-zong-xian/6.2-zong-xian-zhong-cai.md)
+* [6.3 总线操作和定时](di-liu-zhang-zong-xian/6.3-zong-xian-cao-zuo-he-ding-shi.md)
+* [6.4 总线标准](di-liu-zhang-zong-xian/6.4-zong-xian-biao-zhun.md)
