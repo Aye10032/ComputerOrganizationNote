@@ -44,3 +44,10 @@
 * [6.2 总线仲裁](di-liu-zhang-zong-xian/6.2-zong-xian-zhong-cai.md)
 * [6.3 总线操作和定时](di-liu-zhang-zong-xian/6.3-zong-xian-cao-zuo-he-ding-shi.md)
 * [6.4 总线标准](di-liu-zhang-zong-xian/6.4-zong-xian-biao-zhun.md)
+
+## 第七章 I/O系统
+
+* [7.1 I/O系统的基本概述](di-qi-zhang-io-xi-tong/7.1-io-xi-tong-de-ji-ben-gai-shu.md)
+* [7.2 外部设备](di-qi-zhang-io-xi-tong/7.2-wai-bu-she-bei.md)
+* [7.3 I/O接口](di-qi-zhang-io-xi-tong/7.3-io-jie-kou.md)
+* [7.4 I/O方式](di-qi-zhang-io-xi-tong/7.4-io-fang-shi.md)
