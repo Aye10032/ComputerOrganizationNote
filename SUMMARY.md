@@ -29,6 +29,7 @@
 * [4.1 指令格式](di-si-zhang-zhi-ling-xi-tong/4.1-zhi-ling-ge-shi.md)
 * [4.2 指令的寻址方式](di-si-zhang-zhi-ling-xi-tong/4.2-zhi-ling-de-xun-zhi-fang-shi.md)
 * [4.3 CISC和RISC](di-si-zhang-zhi-ling-xi-tong/4.3-cisc-he-risc.md)
+* [4.4 程序的机器级代码](di-si-zhang-zhi-ling-xi-tong/4.4-cheng-xu-de-ji-qi-ji-dai-ma.md)
 
 ## 第五章 中央处理器
 
