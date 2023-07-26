@@ -1,0 +1,62 @@
+[book]
+authors = ["Aye10032"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "考研计算机组成原理笔记"
+
+[preprocessor.katex]
+after = ["links"]
+# KaTeX options.
+output = "html"
+leqno = false
+fleqn = false
+throw-on-error = true
+error-color = "#cc0000"
+min-rule-thickness = -1.0
+max-size = "Infinity"
+max-expand = 1000
+trust = false
+# Extra options.
+no-css = false
+include-src = false
+block-delimiter = { left = "$$", right = "$$" }
+inline-delimiter = { left = "$", right = "$" }
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "2.0.1" # do not edit: managed by `mdbook-admonish install`
+
+[output.html]
+additional-css = ["./mdbook-admonish.css", '.\mdbook-admonish.css']
+
+[output.pdf]
+## Set for auto-retrying if failed to generate PDF.
+# trying-times = 1
+## This backend only support latest Chromium based browsers, not Safari and Firefox currently.
+## If needed, please specify the full path.
+## If you specify the wrong binary, chances are that there will be a timeout error.
+# browser-binary-path = ""
+## Assign the static hosting site url so that relative links outside the book can be fixed.
+static_site_url = "https://aye10032.gitbook.io/computernetwork/"
+## Check Chrome Devtools Protocol Docs for the explanation of the following params:
+## https://chromedevtools.github.io/devtools-protocol/tot/Page/#method-printToPDF
+landscape = false
+display-header-footer = true
+print-background = true
+theme = ""
+scale = 0.8
+paper-width = 8
+paper-height = 10
+margin-top = 0.5
+margin-bottom = 0.5
+margin-left = 0.5
+margin-right = 0.5
+page-ranges = ""
+ignore-invalid-page-ranges = false
+header-template = "<h3 style='font-size:8px; margin-left: 48%' class='title'></h3>"
+footer-template = "<p style='font-size:10px; margin-left: 48%'><span class='pageNumber'></span> / <span class='totalPages'></span></p>"
+prefer-css-page-size = true
+
+[output.pdf-outline]
+like-wkhtmltopdf = true
